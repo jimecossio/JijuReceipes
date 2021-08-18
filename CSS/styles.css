@@ -488,6 +488,9 @@ body footer {
 }
 body footer  .imgFooter {
         display: flex;
+    width: 42%;
+    justify-content: space-around;
+    flex-direction: row;
     }
 
 @media (min-width: 517px) and (max-width: 980px) {
