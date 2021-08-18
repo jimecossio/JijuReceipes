@@ -5,5 +5,8 @@ body {
         text-align: center;
         padding-bottom: 1.875rem;
         border-top: 5px solid map-get($map: $colors, $key: grisOscuro);
+         .imgFooter {
+        display: flex;
+    }
     }
 }
