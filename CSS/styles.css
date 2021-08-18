@@ -486,6 +486,9 @@ body footer {
     padding-bottom: 1.875rem;
     border-top: 5px solid #666666d7;
 }
+body footer  .imgFooter {
+        display: flex;
+    }
 
 @media (min-width: 517px) and (max-width: 980px) {
     body #menu {
