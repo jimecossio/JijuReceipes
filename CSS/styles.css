@@ -1,14 +1,14 @@
 body {
     height: 100vh;
     background-color: #a0a090;
-    background-image: url(fondo.JPG);
+    background-image: url(img/fondo.JPG);
     background-position: center;
     color: #2b2b2b;
     font-family: 'Montserrat', sans-serif;
 }
 
 body header {
-    background-image: url(/img/fondo.JPG);
+    background-image: url(img/fondo.JPG);
     background-color: #a0a090;
     background-position: center;
     padding: 3.125rem;
@@ -77,7 +77,7 @@ body .menu .menu ul li:hover ul {
 body {
     height: 100vh;
     background-color: #a0a090;
-    background-image: url(/img/fondo.JPG);
+    background-image: url(img/fondo.JPG);
     background-position: center;
     color: #2b2b2b;
     font-family: 'Montserrat', sans-serif;
